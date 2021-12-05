@@ -9,7 +9,9 @@
 - 📫 You can reach me at QuzziCode@gmail.com
 
 **_The opinions expressed throughout are my own_**
+
 Some of the work will be open to collaborators.
+
 Questions and comments welcomed.
 
 # Why use a Quantum Annealer for optimization?
