@@ -1,7 +1,7 @@
 
 # Welcome to Q-Zee
 
-- 👀 I’m using the [DWave Quantum Annealer (QA)](https://cloud.dwavesys.com/leap) to solve various optimization problems.
+- 👀 Here you will find uses of the [DWave Quantum Annealer (QA)](https://cloud.dwavesys.com/leap) to solve various optimization problems.
 - 🌱 The work published here (in progress as of December 5th 2021) is for the purpose of demonstrating how I use the QA for practice and to solve real-world problems. Some of the real-world use cases will include ✈️ **airline crew planning optimization problems**. 
 - Everything I learned since 2018 about coding for DWave can be found on the [DWave site](https://www.dwavesys.com/learn/resource-library/) and code examples after [signing up](https://cloud.dwavesys.com/leap/signup/)
 - 💡 I aim to explain how I go about modeling a problem for the QA from a practical perspective. 
