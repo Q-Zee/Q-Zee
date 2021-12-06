@@ -1,5 +1,5 @@
 
-# Hello, this is @Q-Zee
+# Welcome to Q-Zee
 
 - 👀 I’m using the [DWave Quantum Annealer (QA)](https://cloud.dwavesys.com/leap) to solve various optimization problems.
 - 🌱 The work published here (in progress as of December 5th 2021) is for the purpose of demonstrating how I use the QA for practice and to solve real-world problems. Some of the real-world use cases will include ✈️ **airline crew planning optimization problems**. 
