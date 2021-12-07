@@ -20,7 +20,7 @@ Quantum Annealing allows finding solutions to large combination problems that ar
 
 Where there are multiple "choices" to be made with consequences on cost/time as these choices interact with each other ... there is an opportunity to use the QA to find the best fit solutions where Classical computing can fail.
 
-# What is the difference between Classical and Quantum Annealing solvers?
+# What is the difference between Classical computing and Quantum Annealing solvers?
 
 Here is a simplistic analogy: 
 
