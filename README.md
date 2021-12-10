@@ -7,12 +7,12 @@
 - 💡 I aim to explain how I go about modeling a problem for the QA from a practical perspective. 
 - 💞️ I’m looking to collaborate with others who are looking at creating practical solvers to real work optimization problems.
 - 📫 You can reach me at QuzziCode@gmail.com
-
-**_The opinions expressed throughout are my own_**
+- ❤️ [Sponsor Q-Zee!](https://github.com/sponsors/Q-Zee)
 
 Some of the work will be open to collaborators.
-
 Questions and comments welcomed.
+
+### Start -> [here](https://q-zee.github.io)
 
 # Why use a Quantum Annealer for optimization?
 
@@ -28,7 +28,3 @@ Here is a simplistic analogy:
 
 - 💥 The Quantum Annealer **"knows"** how to solve the problem by using a **quality rating function** one gives it (code) to compare its solutions. The paths to the labyrinth _"manifest"_ themselves and the ones leading to exits rank at the top of the list of possible solutions.
 
-<!---
-Q-Zee/Q-Zee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
